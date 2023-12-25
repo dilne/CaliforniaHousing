@@ -33,3 +33,14 @@ In the notebook, I perform:
 * Correlation and multicolinearity assessment
 * Feature scaling
 * Model training (including grid search) 
+
+## Results
+The Random Forest Regression model emerged as the best performer among the trained models, with an average accuracy of $43,658.
+
+
+
+R^2 Score: 0.7933309926525507
+Mean Absolute Error: 29580.49344298964
+Mean Squared Error: 1906039202.1731477
+Root Mean Squared Error: 43658.208875000215
+Mean Absolute Percentage Error: 17.003087000720146%
